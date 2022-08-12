@@ -1,10 +1,20 @@
-# (Ford GoBike System Dataset)
-## by (Nwangene Sobe-Olisa)
-
+# Ford GoBike System Dataset
+## by Nwangene Sobe-Olisa
+### a Udacity-ALX Data Visualization Project
 
 ## Dataset
 
 > The data consists of information about 183,412 individual rides made in a bike-sharing system covering the greater San Francisco Bay area. The dataset contains features like ride durations, riders gender, start and end time of ride, customer type and other variables. The dataset can be downloaded [here](https://video.udacity-data.com/topher/2020/October/5f91cf38_201902-fordgobike-tripdata/201902-fordgobike-tripdata.csv/).
+
+## Environment
+This project was written in python using Anaconda's jupyter notebook. The following following packages needs to be installed in other to effectively run:
+* numpy
+* pandas
+* matplotlib.pyplot
+* seaborn
+* datetime
+
+## Context
 > For this visualization project, i wrangled the data to remove null values and extract variables like; start and end hour, start and end dayand riders age group from the already existing variables in the dataset.
 > The main feature of interest is the riders duration (duration_sec) column. 
 
