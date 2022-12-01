@@ -4,7 +4,7 @@
 
 ## Dataset
 
-> The data consists of information about 183,412 individual rides made in a bike-sharing system covering the greater San Francisco Bay area. The dataset contains features like ride durations, riders gender, start and end time of ride, customer type and other variables. The dataset can be downloaded [here](https://video.udacity-data.com/topher/2020/October/5f91cf38_201902-fordgobike-tripdata/201902-fordgobike-tripdata.csv/).
+> The dataset consists of data about 183,412 individual rides made in a bike-sharing system covering the greater San Francisco Bay area. The dataset contains features like ride durations, riders gender, start and end time of ride, customer type and other variables. The dataset can be downloaded [here](https://video.udacity-data.com/topher/2020/October/5f91cf38_201902-fordgobike-tripdata/201902-fordgobike-tripdata.csv/).
 
 ## Environment
 This project was written in python using Anaconda's jupyter notebook. The following following packages needs to be installed in other to effectively run:
